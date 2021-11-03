@@ -1,0 +1,46 @@
+.heading
+{
+    font-family: 'Rampart One', cursive;
+    font-size: 30px;
+    width: 80%;
+    margin: 0px;
+    box-shadow: 5px 5px 50px yellow;
+    border-radius: 20px;
+}
+.heading_div 
+{
+    float: none;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px yellow;
+}
+.heading_div_2 
+{
+    font-size: 18px;
+
+}
+.result_para_tag 
+{
+    box-shadow: 5px 5px 5px greenyellow;
+    font-size: medium;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    background-color: rgb(50, 201, 50);
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+    box-shadow: 10px 10px 10px black; 
+}
+canvas
+{
+    border: 3px solid black;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px red;
+    margin-top: 134px;
+}
